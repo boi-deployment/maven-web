@@ -21,7 +21,7 @@ public class HelloWorldTest
     }
 
     /**
-     * @return the suite of tests being tested
+     dd* @return the suite of tests being tested
      */
     public static Test suite()
     {
